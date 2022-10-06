@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Keithfernandes.
+- 👋 Hi, I’m Keith Fernandes.
 - 👀 I’m interested in Python & DataScience.
 - 🌱 I’m currently learning Nothing.
 
